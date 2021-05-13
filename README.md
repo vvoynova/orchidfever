@@ -22,3 +22,5 @@ This code may or may not be necessary for the next step. If you’re getting a p
 This file uses Natural Language Toolkit to tokenize each word in the txt file and find the frequency of each word in the entire text file. It removes all stop words in the NLTK corpus. There is a list of custom stop words for gibberish and loose characters that occur due to OCR, but are not identified as stop words by NLTK.
 Next, it creates three dictionaries: one for every single word, one for named entities, and one for all words besides named entities. A next step for this project would be to incorporate Stanford NER Tagger in this portion. 
 Finally, MatPlotLib creates a wordcloud for each dictionary. 
+
+https://sites.google.com/view/orchid-fever-in-the-am-press/home
