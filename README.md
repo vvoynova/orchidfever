@@ -1,9 +1,7 @@
 # orchidfever
 
 Orchid Fever in the American Press 
-
 PFCH INFO-664 – Final Project
-
 Vella Voynova
 
 The Orchid Craze of the late 19th century, also known as Orchidelirium or Orchid Fever, inspired a new profession, orchid hunting. Orchid hunters risked (and lost) their lives on dangerous journeys in search of rare, expensive flowers for the wealthy collectors back home. This project used Python to search Chronicling America, a Library of Congress database of digitized historic newspapers, for articles on orchid hunting published between 1881 and 1960. The articles' data and text were scraped with Beautiful Soup. The Natural Language Toolkit helped to analyze the frequency of words and names in article text. Three WordCloud visualizations were created with MatPlotLib.  The results can be used by anyone with an interest in orchid hunting, and the project can be adapted for searching other topics in Chronicling America. 
